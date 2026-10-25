@@ -12,7 +12,7 @@ public class DBConnection {
 
     private static final String USER = "root";
 
-    private static final String PASSWORD = "MySQL@123";
+    private static final String PASSWORD = "";
 
     public static Connection getConnection()
             throws SQLException {
